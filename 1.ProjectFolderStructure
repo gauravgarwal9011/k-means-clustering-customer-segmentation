@@ -1,0 +1,14 @@
+Customer-Segmentation-K-Means/
+│
+├── data/
+│   ├── customer_data.csv        # Example of your dataset (customer data)
+│
+├── notebooks/
+│   ├── customer_segmentation.ipynb  # Jupyter notebook with the entire analysis
+│
+├── src/
+│   ├── kmeans_segmentation.py   # Python script containing the K-Means clustering code
+│
+├── requirements.txt            # List of dependencies
+├── README.md                   # Project README
+└── .gitignore                  # Git ignore file
