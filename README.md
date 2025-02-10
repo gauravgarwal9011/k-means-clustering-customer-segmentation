@@ -34,5 +34,6 @@ In this project, I applied the **K-Means** clustering algorithm to perform custo
 To get started with the project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/gauravgarwal9011/Customer-Segmentation-K-Means.git
+git clone https://github.com/gauravgarwal9011/
+k-means-clustering-customer-segmentation.git
 cd Customer-Segmentation-K-Means
